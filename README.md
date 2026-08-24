@@ -4,6 +4,8 @@
 
 ## Desarrollo y Reutilización de Software | Grupo 2
 
+![Banner](https://github.com/Doisaac/guia-practica-1/blob/main/banner.jpg)
+
 ![C#](https://img.shields.io/badge/C%23-Language-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Console App](https://img.shields.io/badge/App-Console-5C2D91?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
