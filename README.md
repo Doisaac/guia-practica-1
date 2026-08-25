@@ -24,6 +24,13 @@ Desde la raíz del proyecto, ejecute:
 ```bash
 dotnet run --project ./Ejercicio1_Abstraccion
 ```
+## Ejecutar el Ejercicio 2
+
+Desde la raíz del proyecto, ejecute:
+
+```bash
+dotnet run --project ./Ejercicio2_Encapsulacion
+```
 
 ## Integrantes
 
