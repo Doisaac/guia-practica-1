@@ -1,6 +1,6 @@
 <div align="center">
 
-# Guía Practica #1
+# Guía Práctica #1
 
 ## Desarrollo y Reutilización de Software | Grupo 2
 
