@@ -47,6 +47,14 @@ Desde la raíz del proyecto, ejecute:
 dotnet run --project ./Ejercicio4_Polimorfismo
 ```
 
+## Ejecutar el Ejercicio 5
+
+Desde la raíz del proyecto, ejecute:
+
+```bash
+dotnet run --project ./Ejercicio5_HerenciaMultinivel
+```
+
 ## Integrantes
 
 | Nombre                        | Carnet  |
