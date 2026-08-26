@@ -13,14 +13,13 @@ Ingeniería En Desarrollo De Software
 
 </div>
 
-## Clonar el repositorio
-
-Abra una consola (PowerShell, Símbolo del sistema o la terminal de su preferencia) y ubíquese en la carpeta donde desea guardar el proyecto. Luego, ejecute los siguientes comandos:
-
-```bash
-git clone https://github.com/Doisaac/guia-practica-1.git
-cd guia-practica-1
-```
+> [!TIP]
+> ## Clonar el repositorio
+> Abra una consola (PowerShell, Símbolo del sistema o la terminal de su preferencia) y ubíquese en la carpeta donde desea guardar el proyecto. Luego, ejecute los siguientes comandos:
+> ```bash
+> git clone https://github.com/Doisaac/guia-practica-1.git
+> cd guia-practica-1
+> ```
 
 ## Requisitos previos
 
