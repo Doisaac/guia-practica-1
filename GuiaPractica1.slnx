@@ -3,4 +3,5 @@
   <Project Path="Ejercicio2_Encapsulacion/Ejercicio2_Encapsulacion.csproj" />
   <Project Path="Ejercicio3_Herencia_Simple/Ejercicio3_Herencia_Simple.csproj" />
   <Project Path="Ejercicio4_Polimorfismo/Ejercicio4_Polimorfismo.csproj" />
+  <Project Path="Ejercicio5_HerenciaMultinivel/Ejercicio5_HerenciaMultinivel.csproj" />
 </Solution>
