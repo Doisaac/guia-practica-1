@@ -39,6 +39,14 @@ dotnet run --project ./Ejercicio2_Encapsulacion
 dotnet run --project ./Ejercicio3_Herencia_Simple
 ```
 
+## Ejecutar el Ejercicio 4
+
+Desde la raíz del proyecto, ejecute:
+
+```bash
+dotnet run --project ./Ejercicio4_Polimorfismo
+```
+
 ## Integrantes
 
 | Nombre                        | Carnet  |
