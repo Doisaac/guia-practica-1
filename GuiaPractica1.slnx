@@ -2,4 +2,5 @@
   <Project Path="Ejercicio1_Abstraccion/Ejercicio1_Abstraccion.csproj" />
   <Project Path="Ejercicio2_Encapsulacion/Ejercicio2_Encapsulacion.csproj" />
   <Project Path="Ejercicio3_Herencia_Simple/Ejercicio3_Herencia_Simple.csproj" />
+  <Project Path="Ejercicio4_Polimorfismo/Ejercicio4_Polimorfismo.csproj" />
 </Solution>
