@@ -53,3 +53,6 @@ dotnet run --project ./Ejercicio4_Polimorfismo
 | ----------------------------- | ------- |
 | Douglas Isaac Barrera Magaña  | BM22025 |
 | Ricardo Enrique Heredia Ramos | HR21024 |
+
+<img src = "https://contrib.rocks/image?repo=Doisaac/guia-practica-1"/>
+
